@@ -1,0 +1,8 @@
+{
+  "name": "file-storage-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for file storage training",
+  "scripts": {
+    "start": "serve -s . -l 3001"
+  }
+}
