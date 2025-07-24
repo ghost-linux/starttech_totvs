@@ -145,5 +145,4 @@ SELECT * FROM files;
 ```
 
 ## 📄 Licença
-
-Use avontade...
+A vontade...
